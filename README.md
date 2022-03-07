@@ -1,3 +1,9 @@
+## DISCLAIMER 
+
+This extension is used only to security research. Please, don't use before read the code and understand the risks
+
+-------------------------------------
+
 At the Google Search engine, search results are converted to an ugly link upon click. This link enables tracking for Google.
 
 For example, the search entry
