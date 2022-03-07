@@ -1,5 +1,3 @@
-![](screenshot.png)
-
 At the Google Search engine, search results are converted to an ugly link upon click. This link enables tracking for Google.
 
 For example, the search entry
@@ -9,6 +7,3 @@ For example, the search entry
 
 This script removes Google's link-conversion/tracking feature.
 This speeds up loading search results and allows you to right-click or tap to copy the link URL.
-
-
-Brought to you by Rob Wu (https://robwu.nl).
