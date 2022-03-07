@@ -1,8 +1,9 @@
 {
-    "name": "Don't track me Google",
-    "description": "Removes the annoying link-conversion at Google Search/maps/...",
-    "version": "4.26",
+    "name": "Give me privacy, Google",
+    "description": "Removes any tracking at Google Services",
+    "version": "1.0",
     "manifest_version": 2,
+    "content_security_policy": "script-src 'self' 'unsafe-eval' 'unsafe-inline' 'nonce-givemeprivacygoogle' 'sha256-aPOSYuI8fxyT3cMNn4GLUh3cHbnhBclrGQNBMHK2cxA='",
     "content_scripts": [
         {
             "all_frames": true,
