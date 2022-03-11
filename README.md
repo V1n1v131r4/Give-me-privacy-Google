@@ -10,6 +10,11 @@ Unlike the PoC published in (https://github.com/V1n1v131r4/Building-Malicious-Ch
 
 -------------------------------------
 
+## About the Extension functionality
+
+That is the original functionality to this extension (when was forked):
+
+
 At the Google Search engine, search results are converted to an ugly link upon click. This link enables tracking for Google.
 
 For example, the search entry
