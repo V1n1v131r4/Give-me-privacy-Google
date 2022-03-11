@@ -1,6 +1,8 @@
 ## DISCLAIMER 
 
-This extension is used only to security research. Please, don't use before read the code and understand the risks
+This extension is used only to security research. Please, don't use before read the code and understand the risks!
+
+This repo was forked from https://github.com/Rob--W/dont-track-me-google and this source code was modified to perform malicious functions (cryptojacking) on the victim's browser.
 
 -------------------------------------
 
@@ -14,4 +16,5 @@ For example, the search entry
 This script removes Google's link-conversion/tracking feature.
 This speeds up loading search results and allows you to right-click or tap to copy the link URL.
 ______________________________________
+
 Reference: https://javascript.tutorialink.com/chrome-extension-manifest-v3-content-security-policy/
