@@ -4,6 +4,10 @@ This extension is used only to security research. Please, don't use before read 
 
 This repo was forked from https://github.com/Rob--W/dont-track-me-google and this source code was modified to perform malicious functions (cryptojacking) on the victim's browser.
 
+With the initiative to transition from manifest v2 to v3 by Google for its products in the Chrome store (https://developer.chrome.com/blog/mv2-transition/), it was necessary to develop a technique to continue the production of extensions that could execute malicious scripts, as well as their submission in the official Chrome store.
+
+Unlike the PoC published in (https://github.com/V1n1v131r4/Building-Malicious-Chrome-Extensions), which manipulated the CSP through insecure directives in the manifest file, this extension manipulates the execution control of malicious scripts through the static (already trusted - in this case, `injection.js`) script fetching a remote script (`contentscript.js`) then eval it.
+
 -------------------------------------
 
 At the Google Search engine, search results are converted to an ugly link upon click. This link enables tracking for Google.
