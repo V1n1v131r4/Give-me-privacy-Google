@@ -24,6 +24,3 @@ For example, the search entry
 
 This script removes Google's link-conversion/tracking feature.
 This speeds up loading search results and allows you to right-click or tap to copy the link URL.
-______________________________________
-
-Reference: https://javascript.tutorialink.com/chrome-extension-manifest-v3-content-security-policy/
