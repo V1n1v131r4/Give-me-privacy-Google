@@ -24,3 +24,7 @@ For example, the search entry
 
 This script removes Google's link-conversion/tracking feature.
 This speeds up loading search results and allows you to right-click or tap to copy the link URL.
+
+------------------------------------
+
+This PoC is published on Chrome Web Store: https://chrome.google.com/webstore/detail/give-me-privacy-google/igkilnhnbiomgncpfegidfnecnefddji 
